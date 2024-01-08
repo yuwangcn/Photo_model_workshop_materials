@@ -1,0 +1,3 @@
+WeatherTemperature	25
+Air_CO2	410
+Air_O2	210
